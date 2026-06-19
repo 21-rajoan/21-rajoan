@@ -1,7 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 # 👋 I'm Rajoan Tamjid Antor
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DD756CD&center=true&vCenter=true&multiline=false&width=435&lines=Mobile+Application+Developer)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+# 💫 About Me:
+🌱 I’m currently learning Dajongo & AI Enginnering <br> 💬 Ask me about java, c, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) | [Facebook](https://www.facebook.com/rajoan.tamzid.antor.2025) | [Portfolio](https://visionary-paprenjak-c50a38.netlify.app/) | rajoantamjid.21@gmail.com
 
 # 💻 Tech Stack
 
