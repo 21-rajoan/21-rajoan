@@ -1,29 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# 💫 About Me
-
-👋 Hi, I'm **Rajoan Tamjid Antor**
-
-📱 Flutter Mobile App Developer with experience building and publishing cross-platform Android & iOS applications.
-
-🚀 Successfully published multiple applications on both Google Play Store and Apple App Store.
-
-💼 Specialized in:
-- Flutter & Dart
-- Firebase Services
-- REST API Integration
-- State Management (GetX, Provider, Bloc)
-- Clean Architecture
-- Responsive UI/UX Development
-
-🌱 Currently exploring advanced Flutter architecture, backend development, and scalable mobile solutions.
-
-📫 Reach me:
-- Email: rajoantamjid.21@gmail.com
-- Portfolio: https://visionary-paprenjak-c50a38.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/rajoan-tamjid-170b13249/
-
-⚡ Fun Fact: I enjoy transforming ideas into production-ready mobile applications.
+# 👋 I'm Rajoan Tamjid Antor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DD756CD&center=true&vCenter=true&multiline=false&width=435&lines=Mobile+Application+Developer)](https://git.io/typing-svg)
 
 # 💻 Tech Stack
 
