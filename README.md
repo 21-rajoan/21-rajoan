@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Android+%26+iOS+Developer;Published+Apps+on+Play+Store+%26+App+Store;Firebase+%7C+REST+API+%7C+Clean+Architecture)](https://git.io/typing-svg)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 # 💫 About Me
 
