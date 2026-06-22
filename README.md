@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rajoan.tamzid.antor.2025) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajoantamjid-protfolio.netlify.app) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://rajoantamjid-protfolio.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rajoantamjid.21@gmail.com)
 
 # 💻 Tech Stack:
