@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning Dajongo & AI Enginnering <br> 💬 Ask me about java, c, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) | [Facebook](https://www.facebook.com/rajoan.tamzid.antor.2025) | [Portfolio](https://visionary-paprenjak-c50a38.netlify.app/) | rajoantamjid.21@gmail.com
+🌱 I’m currently learning Dajongo & AI Enginnering <br> 💬 Ask me about java, c, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) | [Facebook](https://www.facebook.com/rajoan.tamzid.antor.2025) | [Portfolio]([https://visionary-paprenjak-c50a38.netlify.app/](https://rajoantamjid.netlify.app/)) | rajoantamjid.21@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rajoan.tamzid.antor.2025) 
