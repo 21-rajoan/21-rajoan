@@ -5,9 +5,8 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning Dajongo & AI Enginnering <br> 💬 Ask me about java, c, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) | [Facebook](https://www.facebook.com/rajoan.tamzid.antor.2025) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajoantamjid.netlify.app)
+🌱 I’m currently learning Dajongo & AI Enginnering <br> 💬 Ask me about java, c, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) | [Facebook](https://www.facebook.com/rajoan.tamzid.antor.2025) | [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajoantamjid.netlify.app) | [![Email](https://img.shields.io/badge/Gmail-rajoantamjid.21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajoantamjid.21@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajoantamjid.21@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rajoan.tamzid.antor.2025) 
