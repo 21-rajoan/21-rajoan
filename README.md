@@ -7,7 +7,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Dajongo & AI Enginnering <br> 💬 Ask me about java, c, android, flutter <br>⚡ Fun fact, I enjoy mobile application development<br>📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) | [Facebook](https://www.facebook.com/rajoan.tamzid.antor.2025) | [Portfolio](https://rajoantamjid-protfolio.netlify.app/) | [Email](mailto:rajoantamjid.21@gmail.com)
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rajoan.tamzid.antor.2025) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajoan-tamjid-170b13249/) 
