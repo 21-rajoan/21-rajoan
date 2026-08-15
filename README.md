@@ -20,12 +20,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riad804&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riad804&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📈 My Coding Activity
+## 📊 GitHub Contributions
 
 <div align="center">
-<br/>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=21-rajoan&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=21-rajoan&theme=dark&hide_border=true)](https://github.com/21-rajoan)
+
+<br><br>
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=21-rajoan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
