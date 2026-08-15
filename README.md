@@ -23,9 +23,6 @@
 ## 📈 My Coding Activity
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=21-rajoan&theme=github-dark-blue&hide_border=true)](https://github.com/21-rajoan)
-
 <br/>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=21-rajoan&bg_color=0d1117&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true)
