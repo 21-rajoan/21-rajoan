@@ -29,5 +29,13 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400"/>
+
+### 💻 "Code. Debug. Commit. Repeat." 🚀
+
+</div>
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
