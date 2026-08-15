@@ -19,6 +19,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=riad804&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riad804&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riad804&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 Recent GitHub Activity
+<div align="center">
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=riad804&theme=github-compact&hide_border=true&area=true)](https://github.com/riad804)
+
+</div>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
