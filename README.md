@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DD756CD&center=true&vCenter=true&multiline=false&width=435&lines=Mobile+Application+Developer)](https://git.io/typing-svg)
 
 
-
-
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
